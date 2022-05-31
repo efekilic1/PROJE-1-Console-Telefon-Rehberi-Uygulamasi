@@ -1,0 +1,15 @@
+/Users/muhammedkilic/Projects/ProjectTelephoneDirectory/ProjectTelephoneDirectory/obj/Debug/net5.0/ProjectTelephoneDirectory.csproj.AssemblyReference.cache
+/Users/muhammedkilic/Projects/ProjectTelephoneDirectory/ProjectTelephoneDirectory/obj/Debug/net5.0/ProjectTelephoneDirectory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammedkilic/Projects/ProjectTelephoneDirectory/ProjectTelephoneDirectory/obj/Debug/net5.0/ProjectTelephoneDirectory.AssemblyInfoInputs.cache
+/Users/muhammedkilic/Projects/ProjectTelephoneDirectory/ProjectTelephoneDirectory/obj/Debug/net5.0/ProjectTelephoneDirectory.AssemblyInfo.cs
+/Users/muhammedkilic/Projects/ProjectTelephoneDirectory/ProjectTelephoneDirectory/obj/Debug/net5.0/ProjectTelephoneDirectory.csproj.CoreCompileInputs.cache
+/Users/muhammedkilic/Projects/ProjectTelephoneDirectory/ProjectTelephoneDirectory/bin/Debug/net5.0/ProjectTelephoneDirectory.deps.json
+/Users/muhammedkilic/Projects/ProjectTelephoneDirectory/ProjectTelephoneDirectory/bin/Debug/net5.0/ProjectTelephoneDirectory.runtimeconfig.json
+/Users/muhammedkilic/Projects/ProjectTelephoneDirectory/ProjectTelephoneDirectory/bin/Debug/net5.0/ProjectTelephoneDirectory.runtimeconfig.dev.json
+/Users/muhammedkilic/Projects/ProjectTelephoneDirectory/ProjectTelephoneDirectory/bin/Debug/net5.0/ProjectTelephoneDirectory.dll
+/Users/muhammedkilic/Projects/ProjectTelephoneDirectory/ProjectTelephoneDirectory/bin/Debug/net5.0/ref/ProjectTelephoneDirectory.dll
+/Users/muhammedkilic/Projects/ProjectTelephoneDirectory/ProjectTelephoneDirectory/bin/Debug/net5.0/ProjectTelephoneDirectory.pdb
+/Users/muhammedkilic/Projects/ProjectTelephoneDirectory/ProjectTelephoneDirectory/obj/Debug/net5.0/ProjectTelephoneDirectory.dll
+/Users/muhammedkilic/Projects/ProjectTelephoneDirectory/ProjectTelephoneDirectory/obj/Debug/net5.0/ref/ProjectTelephoneDirectory.dll
+/Users/muhammedkilic/Projects/ProjectTelephoneDirectory/ProjectTelephoneDirectory/obj/Debug/net5.0/ProjectTelephoneDirectory.pdb
+/Users/muhammedkilic/Projects/ProjectTelephoneDirectory/ProjectTelephoneDirectory/obj/Debug/net5.0/ProjectTelephoneDirectory.genruntimeconfig.cache
